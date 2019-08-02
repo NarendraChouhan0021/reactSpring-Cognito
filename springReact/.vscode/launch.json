@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CreateCognitoUser",
+            "request": "launch",
+            "mainClass": "no.kantega.springandreact.CreateCognitoUser",
+            "projectName": "spring-and-react"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EnableMFAForCognitoUser",
+            "request": "launch",
+            "mainClass": "no.kantega.springandreact.EnableMFAForCognitoUser",
+            "projectName": "spring-and-react"
+        }
+    ]
+}
